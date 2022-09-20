@@ -1,0 +1,9 @@
+body{
+    background-image: url("b2.avif");
+    background-repeat: no-repeat;
+    background-size: 1270px 700px;
+}
+div{
+    size: 5000px;
+    color: white;
+}
